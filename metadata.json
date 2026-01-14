@@ -1,0 +1,5 @@
+{
+  "name": "LADDER Disposition Dashboard",
+  "description": "An interactive dashboard for students to categorize leadership dispositions into Strengths, Standards, and Stressors based on the LADDER Sort Cards methodology.",
+  "requestFramePermissions": []
+}
